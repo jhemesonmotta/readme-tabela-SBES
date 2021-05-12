@@ -109,9 +109,7 @@ in Software Engineering, pages 109–124. Apress open
 
 [7] Sauerssig, R. H. S. S., Sparemberger, A., Zamberlan, L.,
 Buttenbender, P. L., and Kuhn, I. N. (2019). Impacto ¨
-e influencia dos fatores da qualidade de vida no de- ˆ
-sempenho pessoal: O caso de uma instituic¸ao de en- ˜
-sino superior (ies/rs). XIX Coloquio Internacional de
+e influencia dos fatores da qualidade de vida no desempenho pessoal: O caso de uma instituic¸ao de ensino superior (ies/rs). XIX Coloquio Internacional de
 Gestao Universitaria.
 
 [8] Wagner, S. and Ruhe, M. (2018). A systematic review of
@@ -133,8 +131,7 @@ development work. Journal of Systems and Software,
 156:41–61.
 
 
-[11] Helie, J., Wright, I., and Ziegler, A. (2018). Measuring soft- ´
-ware development productivity: A machine learning
+[11] Helie, J., Wright, I., and Ziegler, A. (2018). Measuring software development productivity: A machine learning
 approach. In Proceedings of the Conference on Machine Learning for Programming Workshop, affiliated
 with FLoC, volume 18
 
