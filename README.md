@@ -3,11 +3,11 @@
 ### Table 1: Factors Evaluation
 |Category|Factor |Detailing|Rating |
 |--------|-----------------------------|---------|---------------------------------------------|
-|People | Focus | The focus factor measures how focused the team is on achieving the iteration goal \cite{scottCP20}. | 1.537 |
+|People | Focus | The focus factor measures how focused the team is on achieving the iteration goal [20]. | 1.537 |
 |People|Collaboration between team members|collaborative work positively influences productivity in software development [1].|1.45 |
 |People|Ease of communication|in collaborative development environments the ease of communication between members is an important factor in increasing productivity [1].|1.45 |
 |People|Motivation |the motivation of those involved in software design positively influences productivity in software development [1]|1.425|
-|People | Commitment | It represents the level of responsibility that team members are willing to assume in their tasks within their work team \cite{villegas2021}. | 1.415 |
+|People | Commitment | It represents the level of responsibility that team members are willing to assume in their tasks within their work team [21]. | 1.415 |
 |People|Team cohesion|cohesion is one of the factors that positively affects productivity and, therefore, the allocation of team members must be done in a way that facilitates cohesion [1]|1.325|
 |People|Mental health|good mental health of employees leads to productivity gains [2]|1.3|
 |People|Skills and competences |even without identifying the types of skills and competences, the relationship between this factor and productivity is positive [1]|1.275|
@@ -20,7 +20,7 @@
 |People|Quality of life|the literature points out that the quality of life at work is directly linked to the organization’s productivity [7].|0.925|
 |People|Behavioral qualification |the good behavioral qualification of the developers involves focus; concentration; tranquility; and commitment [5].|0.775|
 |People|Availability of members for allocation to the development|Availability of members for allocation to the development team: having the resources available in the necessary time is an important aspect and positively influences productivity [1].|0.7|
-|People | Home distractions | In home-office it is common for people to lose productivity because they are distracted from their activities \cite{russo21}. | 0.488 |
+|People | Home distractions | In home-office it is common for people to lose productivity because they are distracted from their activities [19]. | 0.488 |
 |People|Turnover |the lower the resource turnover within a project, the better for productivity. In such a way, this is a factor of negative influence [1].|0.175|
 |Product |Quality|represents the quality of the work done. Such a metric can be obtained according to internal values (for example, the quality of the code and the quantity of bugs produced) or external (for example, the quality of the product from the perspective of the end users) [3].|1.3|
 |Product |Adequate documentation |this factor represents how well the documentation fits the needs [8].|0.95 |
@@ -47,7 +47,7 @@
 |Organization|Use of best practices in software project management|practices that support the construction of a work environment that favors the commitment and interest of team members are factors of positive impact on productivity [1].|1.15 |
 |Organization|Merits and rewards system|these systems contribute positively to the productivity of the development team [1].|1.098|
 |Organization|Accuracy of information|the accuracy of the information that reaches the development team (such as bug reports, use cases and change requests) influences its productivity [15]|1.098|
-|Organization|Team autonomy level|It subjectively represents the extent to which the software team has authority and control in making decisions to carry out the project \cite{chapettaT20}.|1.073|
+|Organization|Team autonomy level|It subjectively represents the extent to which the software team has authority and control in making decisions to carry out the project [22].|1.073|
 |Organization|Stakeholder participation in development|in general it affects productivity positively, however, care must be taken because, if excessive, this participation can be negative [1].|1.07 |
 |Organization|Knowledge management |in general the lack of knowledge exchange between developers is a factor that negatively influences productivity [1].|1.05 |
 |Organization|Work Tools |the use of good work tools also influences productivity [4].|1.05 |
@@ -57,14 +57,14 @@
 |Organization|Development site |studies indicate that the location of development affects productivity (for example: different countries, military or industrial organizations, etc.) [1].|0.93 |
 |Organization|Sharing members between projects|resource sharing between projects is negative in the context of productivity as developers have to keep different contexts in mind [1].|0.829|
 |Organization|Innovative mindset |the existence of a mindset that is always open to new ideas influences the productivity of software developers [4].|0.829|
-|Organization|Iteration length|The length of an iteration in days, calculated as the time elapsed between the start and end dates of the iteration, can affect productivity \cite{scottCP20}.|0.756|
+|Organization|Iteration length|The length of an iteration in days, calculated as the time elapsed between the start and end dates of the iteration, can affect productivity [20].|0.756|
 |Organization|Existence of Rework|the existence of rework is negative for productivity as it indicates some other negative aspects such as the existence of defects [1].|0.63 |
 |Organization|Variety of tasks |the variety of types of tasks is one of the factors that affects the productivity of software developers [4].|0.54 |
 |Organization|Team size|small teams made up of experienced developers have better levels of productivity [1].|0.51 |
 |Organization|Possibility of remote work |the possibility of doing the work remotely to perform tasks that require uninterrupted concentration positively affects productivity [4].|0.49 |
 |Organization|Existence of historical measurement history|the existence of historical data positively influences productivity, as such data can serve as a support for comparison and because they can also allow a better understanding of the behavior of software projects [1].|0.46 |
 |Organization|Homogeneity|teams with the highest homogeneity levels are more productive, produce better quality code and, in addition, are also more effective in testing [16].|0.415|
-|Organization|Software risk exposure level|Represents the level of project uncertainty, having a noticeable impact on how the software can respond to business needs over time \cite{chapettaT20}.|0.075|
+|Organization|Software risk exposure level|Represents the level of project uncertainty, having a noticeable impact on how the software can respond to business needs over time [22].|0.075|
 |OSS |Investments in Information and Communication Technolo|comprises investments in software, hardware and laboratories and is a factor of positive influence on productivity [1].|2|
 |OSS |Team engagement|in general, developers of open source software projects are more motivated to contribute and, in addition, there is a very positive exchange of experiences between these individuals [1].|1.25 |
 |OSS |Developer base |it is natural for developers to be more interested in contributing to open source software projects that have more developers contributing [17]. [18] stated that in larger development communities (with a large number of participants) developers are more active.|0.89 |
@@ -76,7 +76,7 @@
 |OSS |Team disengagement |open source software developers may lose interest in the project due to several factors faced by these [1].|0.42 |
 |OSS |Gender diversity |teams composed of men and women bring different perspectives and, thus, have better results [1].|0.32 |
 |OSS |Size correlation (commits X contributors)| Jiang et al. [18] considered, in open source software development projects, the correlation between the number of commits and the number of contributors as the main factor for productivity.|0.32 |
-|OSS|Project age|Software productivity gradually decreases after reaching a peak in the project development cycle. This indicates that project age affects productivity \cite{liao2021}.|0.275
+|OSS|Project age|Software productivity gradually decreases after reaching a peak in the project development cycle. This indicates that project age affects productivity [23].|0.275
 |OSS |Lack of contractual relationships|the lack of contractual relationships allows contributors to free software projects to spend their time contributing to activities that directly increase software productivity [1].|0.09 |
 
 
@@ -181,3 +181,32 @@ success of open source software. J. Syst. Softw.,
 A. Y. (2018). Diversity, productivity, and growth
 of open source developer communities. CoRR,
 abs/1809.03725.
+
+
+[19] Daniel Russo, Paul H. P. Hanel, Seraphina Altnickel, and Niels van Berkel. 2021.
+Predictors of well-being and productivity among software professionals during
+the COVID-19 pandemic - a longitudinal study. Empir. Softw. Eng. 26, 4 (2021),
+62. https://doi.org/10.1007/s10664-021-09945-9
+
+[20] Ezequiel Scott, Khaled Nimr Charkie, and Dietmar Pfahl. 2020. Productivity,
+Turnover, and Team Stability of Agile Teams in Open-Source Software Projects.
+In 46th Euromicro Conference on Software Engineering and Advanced Applications,
+SEAA 2020, Portoroz, Slovenia, August 26-28, 2020. IEEE, 124–131. https://doi.org/
+10.1109/SEAA51224.2020.00029
+
+
+[21] Liliana Machuca-Villegas, Gloria Piedad Gasca-Hurtado, Solbey Morillo Puente,
+and Luz Marcela Restrepo Tamayo. 2021. An Instrument for Measuring Perception about Social and Human Factors that Influence Software Development
+Productivity. JUCS - Journal of Universal Computer Science 27, 2 (2021), 111–134.
+https://doi.org/10.3897/jucs.65102 arXiv:https://doi.org/10.3897/jucs.65102
+
+
+[22] Wladmir Araujo Chapetta and Guilherme Horta Travassos. 2020. Towards an
+evidence-based theoretical framework on factors influencing the software development productivity. Empir. Softw. Eng. 25, 5 (2020), 3501–3543. https:
+//doi.org/10.1007/s10664-020-09844-5
+
+
+[23] Zhifang Liao, Yiqi Zhao, Shengzong Liu, Yan Zhang, Limin Liu, and Jun Long.
+2021. The Measurement of the Software Ecosystem’s Productivity with GitHub.
+Computer Systems Science and Engineering 36, 1 (2021), 239–258. https://doi.org/
+10.32604/csse.2021.014144
