@@ -76,6 +76,7 @@
 |OSS |Team disengagement |open source software developers may lose interest in the project due to several factors faced by these [1].|0.42 |
 |OSS |Gender diversity |teams composed of men and women bring different perspectives and, thus, have better results [1].|0.32 |
 |OSS |Size correlation (commits X contributors)| Jiang et al. [18] considered, in open source software development projects, the correlation between the number of commits and the number of contributors as the main factor for productivity.|0.32 |
+|OSS|Project age|Software productivity gradually decreases after reaching a peak in the project development cycle. This indicates that project age affects productivity \cite{liao2021}.|0.275
 |OSS |Lack of contractual relationships|the lack of contractual relationships allows contributors to free software projects to spend their time contributing to activities that directly increase software productivity [1].|0.09 |
 
 
