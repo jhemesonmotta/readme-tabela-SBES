@@ -38,11 +38,6 @@
 |Product |Number / frequency of commits| Helie et al. [11] used as one of the factors related to productivity, the frequency of code commits in an hour interval. According to the authors, a high number means (according to empirical knowledge) that more work is being done.|0.4                                          |
 |Product |Software size                |the reason for the negative relationship between productivity and software size is the increased complexity of the project [1].|0.35                                         |
 |Product |Type of software developed   |different types of systems have a different influence on productivity [1].|0.25                                         |
-
-
-
-
-
 |Organization|Trust in other members       |the ability of team members to trust each other influences productivity [12].|1.61                                         |
 |Organization|Work environment             |the work environment contains aspects that influence other aspects that together positively influence productivity [1].|1.415                                        |
 |Organization|Efficient meetings           |the efficiency of meetings and their related practices also affects the productivity of development teams [4].|1.415                                        |
@@ -53,7 +48,6 @@
 |Organization|Use of best practices in software project management|practices that support the construction of a work environment that favors the commitment and interest of team members are factors of positive impact on productivity [1].|1.15                                         |
 |Organization|Merits and rewards system    |these systems contribute positively to the productivity of the development team [1].|1.098                                        |
 |Organization|Accuracy of information      |the accuracy of the information that reaches the development team (such as bug reports, use cases and change requests) influences its productivity [15]|1.098                                        |
-|Organization|Team autonomy level|It subjectively represents the extent to which the software team has authority and control in making decisions to carry out the project \cite{chapettaT20}.|1.073|
 |Organization|Stakeholder participation in development|in general it affects productivity positively, however, care must be taken because, if excessive, this participation can be negative [1].|1.07                                         |
 |Organization|Knowledge management         |in general the lack of knowledge exchange between developers is a factor that negatively influences productivity [1].|1.05                                         |
 |Organization|Work Tools                   |the use of good work tools also influences productivity [4].|1.05                                         |
@@ -63,14 +57,12 @@
 |Organization|Development site             |studies indicate that the location of development affects productivity (for example: different countries, military or industrial organizations, etc.) [1].|0.93                                         |
 |Organization|Sharing members between projects|resource sharing between projects is negative in the context of productivity as developers have to keep different contexts in mind [1].|0.829                                        |
 |Organization|Innovative mindset           |the existence of a mindset that is always open to new ideas influences the productivity of software developers [4].|0.829                                        |
-|Organization|Iteration length|The length of an iteration in days, calculated as the time elapsed between the start and end dates of the iteration, can affect productivity \cite{scottCP20}.|0.756|
 |Organization|Existence of Rework          |the existence of rework is negative for productivity as it indicates some other negative aspects such as the existence of defects [1].|0.63                                         |
 |Organization|Variety of tasks             |the variety of types of tasks is one of the factors that affects the productivity of software developers [4].|0.54                                         |
 |Organization|Team size                    |small teams made up of experienced developers have better levels of productivity [1].|0.51                                         |
 |Organization|Possibility of remote work   |the possibility of doing the work remotely to perform tasks that require uninterrupted concentration positively affects productivity [4].|0.49                                         |
 |Organization|Existence of historical measurement history|the existence of historical data positively influences productivity, as such data can serve as a support for comparison and because they can also allow a better understanding of the behavior of software projects [1].|0.46                                         |
 |Organization|Homogeneity                  |teams with the highest homogeneity levels are more productive, produce better quality code and, in addition, are also more effective in testing [16].|0.415                                        |
-|Organization|Software risk exposure level|Represents the level of project uncertainty, having a noticeable impact on how the software can respond to business needs over time \cite{chapettaT20}.|0.075|
 |OSS     |Investments in Information and Communication Technolo|comprises investments in software, hardware and laboratories and is a factor of positive influence on productivity [1].|2                                            |
 |OSS     |Team engagement              |in general, developers of open source software projects are more motivated to contribute and, in addition, there is a very positive exchange of experiences between these individuals [1].|1.25                                         |
 |OSS     |Developer base               |it is natural for developers to be more interested in contributing to open source software projects that have more developers contributing [17]. [18] stated that in larger development communities (with a large number of participants) developers are more active.|0.89                                         |
