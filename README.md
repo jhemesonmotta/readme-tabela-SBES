@@ -19,6 +19,9 @@
 |People  |Behavioral qualification     |the good behavioral qualification of the developers involves focus; concentration; tranquility; and commitment [5].|0.775                                        |
 |People  |Availability of members for allocation to the development|Availability of members for allocation to the development team: having the resources available in the necessary time is an important aspect and positively influences productivity [1].|0.7                                          |
 |People  |Turnover                     |the lower the resource turnover within a project, the better for productivity. In such a way, this is a factor of negative influence [1].|0.175                                        |
+|People | Home distractions | In home-office it is common for people to lose productivity because they are distracted from their activities \cite{russo21}. | 0.488 |
+|People | Focus | The focus factor measures how focused the team is on achieving the iteration goal \cite{scottCP20}. | 1.537 |
+|People | Commitmemt | It represents the level of responsibility that team members are willing to assume in their tasks within their work team \cite{villegas2021}. | 1.415 |
 |Product |Quality                      |represents the quality of the work done. Such a metric can be obtained according to internal values (for example, the quality of the code and the quantity of bugs produced) or external (for example, the quality of the product from the perspective of the end users) [3].|1.3                                          |
 |Product |Adequate documentation       |this factor represents how well the documentation fits the needs [8].|0.95                                         |
 |Product |Requirements                 |considering the dependence on several factors (such as ambiguity and volatility of requirements) the influence of this factor varies according to the context [1].|0.85                                         |
